@@ -1,6 +1,7 @@
-### iDisplay ###
+[iDisplay]
 
-# Objective #
+Objective
+--------------
 
 To display data that being processed by the backend into the database.
 
