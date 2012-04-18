@@ -1,3 +1,23 @@
+### iDisplay ###
+
+# Objective #
+
+To display data that being processed by the backend into the database.
+
+This part only showing it to the user.
+
+### Data input ####
+
+Example : 
+
+<DataStore>
+ <data timestamp='2012-04-18T11:13:01+0800'>
+  <first_data>0.0</first_data>
+  <second_element>1.0</second_element>
+ </data>
+</dataStore>
+
+# Remarks #
 this meant for display data to front end user
 
 from the data generated from Database in specific XML format.
